@@ -1,0 +1,26 @@
+.container{
+    max-width: 1100px;
+    color: black;
+    margin: 0 auto;
+    padding-top: 40px
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table th, .table td {
+    border: 1px solid black;
+    padding: 20px
+}
+
+.row {
+    font-size: 18px;
+}
+
+.item {
+    display: inline-block;
+    width: 25%;
+    border: 1px solid black;
+}
